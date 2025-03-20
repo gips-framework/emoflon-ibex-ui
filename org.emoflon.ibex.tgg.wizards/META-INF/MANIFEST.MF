@@ -19,5 +19,5 @@ Require-Bundle: org.antlr.runtime;bundle-version="[3.2.0,3.2.1)",
  org.eclipse.xtext.ui,
  org.eclipse.jdt.launching,
  org.moflon.core.plugins
-Bundle-RequiredExecutionEnvironment: JavaSE-17
+Bundle-RequiredExecutionEnvironment: JavaSE-21
 Export-Package: org.emoflon.ibex.tgg.editor.ui.wizards
